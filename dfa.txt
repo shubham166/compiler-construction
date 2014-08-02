@@ -1,0 +1,407 @@
+108
+1
+1 N
+2 Y CL N
+3 Y OP N
+4 Y SQC N
+5 Y SQO N
+6 Y COMMA N
+7 Y SEMICOLON N
+8 Y SIZE N
+9 Y DIV N 
+10 Y MUL N
+11 Y MINUS N
+12 Y PLUS N
+13 N
+14 N
+15 N
+16 Y OR N
+17 N
+18 N
+19 N
+20 Y NOT N
+21 N 
+22 N
+23 N
+24 Y AND N
+25 N
+26 N
+27 N
+28 N
+29 N
+30 Y MAIN Y
+31 N
+32 Y FUNID Y
+33 N
+34 Y LT Y
+35 Y LE N
+36 N
+37 Y GT Y
+38 Y GE N
+39 N
+40 N
+41 Y NE N
+42 Y EQ N
+43 Y ASSIGNOP Y
+44 N
+45 N
+46 Y STR N
+47 N
+48 N 
+49 Y ID Y
+50 N
+51 N
+52 N
+53 N
+54 Y ELSE Y
+55 N
+56 N
+57 Y END Y
+58 N
+59 N
+60 Y ENDIF Y
+61 N
+62 N
+63 N
+64 N
+65 Y REAL Y
+66 N
+67 N
+68 N
+69 N
+70 N
+71 Y PRINT Y
+72 N
+73 N
+74 N
+75 N
+76 N
+77 N
+78 Y STRING Y
+79 N
+80 N
+81 N
+82 N
+83 N
+84 N
+85 Y MATRIX Y
+86 N
+87 N
+88 N
+89 Y INT Y
+90 N
+91 Y IF Y
+92 N
+93 N
+94 N
+95 N
+96 Y NUM Y
+97 Y RNUM Y
+98 N
+99 N
+100 N
+101 N
+102 N
+103 N
+104 N
+105 N
+106 Y FUNCTION Y
+107 N
+108 Y READ Y
+1 2 ) )
+1 3 ( (
+1 4 ] ]
+1 5 [ [
+1 6 , ,
+1 7 ; ;
+1 8 @ @
+1 9 / /
+1 10 * *
+1 11 - -
+1 12 + +
+1 13 . .
+13 14 o o
+14 15 r r
+15 16 . .
+13 17 n n
+17 18 o o
+18 19 t t
+19 20 . .
+13 21 a a
+21 22 n n 
+22 23 d d
+23 24 . .
+1 33 < <
+1 36 > >
+1 39 = =
+33 34 others
+33 35 = =
+36 37 others
+36 38 = =
+39 40 / /
+40 41 = =
+39 42 = =
+39 43 others
+1 44 " "
+44 45 a z
+44 45 sp sp
+45 45 a z
+45 45 sp sp
+45 46 " "
+1 25 _ _
+25 31 a z
+25 31 A Z
+25 26 m m
+26 31 a z
+26 31 A Z
+26 31 0 9
+26 27 a a
+26 32 others
+27 31 a z
+27 31 A Z
+27 31 0 9
+27 28 i i
+27 32 others
+28 31 a z
+28 31 A Z
+28 31 0 9
+28 29 n n
+28 32 others
+29 31 a z
+29 31 A Z
+29 31 0 9
+29 30 others
+31 31 a z
+31 31 A Z
+31 31 0 9
+31 32 others
+1 47 a z
+1 47 A Z
+47 47 a z
+47 47 A Z
+47 48 0 9
+47 49 others
+48 49 others
+48 -1 a z
+48 -1 A Z
+48 -1 0 9
+1 50 e e
+50 47 a z
+50 47 A Z
+50 48 0 9
+50 51 l l
+50 55 n n
+50 49 others
+51 47 a z
+51 47 A Z
+51 48 0 9
+51 52 s s
+51 49 others
+52 47 a z
+52 47 A Z
+52 48 0 9
+52 53 e e
+52 49 others
+53 47 a z
+53 47 A Z
+53 48 0 9
+53 54 others
+55 47 a z
+55 47 A Z
+55 48 0 9
+55 56 d d
+55 49 others
+56 47 a z
+56 47 A Z
+56 48 0 9
+56 58 i i
+56 57 others
+58 47 a z
+58 47 A Z
+58 48 0 9
+58 59 f f
+58 49 others
+59 47 a z
+59 47 A Z
+59 48 0 9
+59 60 others
+1 61 r r
+61 47 a z
+61 47 A Z
+61 48 0 9
+61 62 e e
+61 49 others
+62 47 a z
+62 47 A Z
+62 48 0 9
+62 63 a a
+62 49 others
+63 47 a z
+63 47 A Z
+63 48 0 9
+63 64 l l
+63 107 d d
+107 47 a z
+107 47 A Z
+107 48 0 9
+107 108 others
+63 49 others
+64 47 a z
+64 47 A Z
+64 48 0 9
+64 65 others
+1 66 p p
+66 47 a z
+66 47 A Z
+66 48 0 9
+66 67 r r
+66 49 others
+67 47 a z
+67 47 A Z
+67 48 0 9
+67 68 i i
+67 49 others
+68 47 a z
+68 47 A Z
+68 48 0 9
+68 69 n n
+68 49 others
+69 47 a z
+69 47 A Z
+69 48 0 9
+69 70 t t
+69 49 others
+70 47 a z
+70 47 A Z
+70 48 0 9
+70 71 others
+1 72 s s
+72 47 a z
+72 47 A Z
+72 48 0 9
+72 73 t t
+72 49 others
+73 47 a z
+73 47 A Z
+73 48 0 9
+73 74 r r
+73 49 others
+74 47 a z
+74 47 A Z
+74 48 0 9
+74 75 i i
+74 49 others
+75 47 a z
+75 47 A Z
+75 48 0 9
+75 76 n n
+75 49 others
+76 47 a z
+76 47 A Z
+76 48 0 9
+76 77 g g
+76 49 others
+77 47 a z
+77 47 A Z
+77 48 0 9
+77 78 others
+1 79 m m
+79 47 a z
+79 47 A Z
+79 48 0 9
+79 80 a a
+79 49 others
+80 47 a z
+80 47 A Z
+80 48 0 9
+80 81 t t
+80 49 others
+81 47 a z
+81 47 A Z
+81 48 0 9
+81 82 r r
+81 49 others
+82 47 a z
+82 47 A Z
+82 48 0 9
+82 83 i i
+82 49 others
+83 47 a z
+83 47 A Z
+83 48 0 9
+83 84 x x
+83 49 others
+84 47 a z
+84 47 A Z
+84 48 0 9
+84 85 others
+1 86 i i
+86 47 a z
+86 47 A Z
+86 48 0 9
+86 87 n n
+86 90 f f
+86 49 others
+87 47 a z
+87 47 A Z
+87 48 0 9
+87 88 t t
+87 49 others
+88 47 a z
+88 47 A Z
+88 48 0 9
+88 89 others
+90 47 a z
+90 47 A Z
+90 48 0 9
+90 91 others
+1 98 f f
+98 47 a z
+98 47 A Z
+98 48 0 9
+98 99 u u
+98 49 others
+99 47 a z 
+99 47 A Z
+99 48 0 9
+99 100 n n
+99 49 others
+100 47 a z
+100 47 A Z
+100 48 0 9
+100 101 c c
+100 49 others
+101 47 a z
+101 47 A Z
+101 48 0 9
+101 102 t t
+101 49 others
+102 47 a z
+102 47 A Z
+102 48 0 9
+102 103 i i
+102 49 others
+103 47 a z
+103 47 A Z
+103 48 0 9
+103 104 o o
+103 49 others
+104 47 a z
+104 47 A Z
+104 48 0 9
+104 105 n n
+104 49 others
+105 47 a z
+105 47 A Z
+105 48 0 9
+105 106 others
+1 92 0 9
+92 92 0 9
+92 93 . .
+93 94 0 9
+94 95 0 9
+95 97 others
+95 -1 0 9
+95 -1 a z
+95 -1 A Z
+92 96 others

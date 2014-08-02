@@ -1,0 +1,8 @@
+_main[]
+	int x,y;
+	if(x>5)
+		print(x);
+	else
+		print(y);
+	endif;
+end;

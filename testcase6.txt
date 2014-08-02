@@ -1,0 +1,12 @@
+_main[]
+	int a,b;
+	a = 3;
+	b = 5;
+	int c;
+	c = a + b;
+	print(c);
+end;
+
+#Semantic errors
+# line 20 : recursive function definitions are not allowed
+# line 23 : function overloading is not allowed
